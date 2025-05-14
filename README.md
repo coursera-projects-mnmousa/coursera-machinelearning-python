@@ -2,7 +2,7 @@
 This is the final project from the Coursera course **"Machine Learning with Python**" by IBM.
 
 ## 🔍 Project Summary
-The goal was to build a classification model to predict whether it would rain the next day based on various weather-related features in Australia.
+The goal was to build a classification model to predict whether it would rain the next day in Australia.
 
 ## ✅ Tasks Completed
 Explored and performed feature engineering on a real-world dataset
