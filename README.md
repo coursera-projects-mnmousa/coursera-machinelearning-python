@@ -23,6 +23,6 @@ The goal was to build a classification model to predict whether it would rain th
 
 ## 📁 Files
 - rainfall_prediction.ipynb – Contains the original project instructions from the course and my completed solution
-- weatherAUS.csv – Dataset used for training and testing
+- weather_data.csv – Dataset used for training and testing
 
 🔗 [Link to the course](https://www.coursera.org/learn/machine-learning-with-python)
