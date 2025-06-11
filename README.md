@@ -2,7 +2,7 @@
 This is the final project from the Coursera course **"Machine Learning with Python**" by IBM.
 
 ## 🔍 Project Summary
-The goal was to build a classification model to predict whether it would rain the next day in Australia.
+The goal was to build a classification model to predict whether it would rain in Australia.
 
 ## 📁 Files
 - rainfall_prediction.ipynb – Contains the original project instructions from the course and my completed solution
