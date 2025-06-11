@@ -1,4 +1,4 @@
-## 📝 Final Project: Rainfall Prediction Classifier
+## 📝 Final Project: Building a Rainfall Prediction Classifier
 This is the final project from the Coursera course **"Machine Learning with Python**" by IBM.
 
 ## 🔍 Project Summary
